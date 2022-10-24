@@ -1,4 +1,5 @@
-* {
+* 
+{
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -86,22 +87,26 @@ p {
     background-color: #2589bd;
 }
 
+/* These margins are 32px from the bottom of section and color is white */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* These sections will be centered and have a 10px margin from the bottom */    
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* These images will be stacked and centered vertically with a margin of 10px */    
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* These sections share the same font and font-size for their headers and paragraphs. They also have the same margins, paddings, and font familes */
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
