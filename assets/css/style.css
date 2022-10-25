@@ -5,10 +5,12 @@
     margin: 0;
 }
 
+/* This determines the background color of the website background */
 body {
     background-color: #d9dcd6;
 }
 
+/* This is the padding of the Horiseon, the font family and color, and the background color */  
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* This is the design of the main large picture on the website */
 .hero {
     height: 800px;
     width: 100%;
@@ -116,6 +119,7 @@ p {
     color: #ffffff;
 }
 
+/* These pictures are all the same height */
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 
