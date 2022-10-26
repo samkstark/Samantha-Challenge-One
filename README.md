@@ -11,6 +11,8 @@ https://github.com/samkstark/Samantha-Challenge-One
 ## Usage
 This wepage can be view on a traditional desktop web browser. It has not yet been modified to fit a smaller screen.
 
+
+
 ## Credits
 The starter clone used belongs to Xandromus from 13 February, 2020. 
 https://github.com/coding-boot-camp/urban-octo-telegram
