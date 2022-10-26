@@ -11,7 +11,7 @@ https://github.com/samkstark/Samantha-Challenge-One
 ## Usage
 This wepage can be view on a traditional desktop web browser. It has not yet been modified to fit a smaller screen.
 
-
+![Getting Started](./assets/images/website-screenshot.jpg)  
 
 ## Credits
 The starter clone used belongs to Xandromus from 13 February, 2020. 
